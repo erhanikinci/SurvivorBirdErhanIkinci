@@ -1,5 +1,12 @@
 # SurvivorBirdErhanIkinci
 
+## Gereksinimler
+   - Android Studio
+   
+   - JDK 11
+   
+   - libGDX
+
 ## Kurulum
    - Kaynak kod, Android Studio IDE'ye import ederek aktarılır.
 
